@@ -1,10 +1,9 @@
 <h2>Bret's Pet Grooming Services</h2>
 <h3>Summary</h3>
 <p>Bret's Pet Grooming Services is responsible for providing exceptional grooming care services, techniques, and styles to a variety of dog breeds.</p>
-<h3>DUTIES AND RESPONSIBILITIES:</h3>
+<h3>Services</h3>
 <ul>
-  <li>Professional grooming techniques for a variety of dog breeds (cats not required, but a
-definite plus!)</li>
+  <li><h4>Bath & Brush</h4>Bath, nail trim, ear cleaning, paw & pad trim, sanitary trim, anal gland cleaning & more.</li>
 <li>Perform grooming services including: clipping, combing, trimming, hand scissoring,
 medicated and general cleansing, parasite control baths, pawdicures, and ear cleansing.</li>
 <li>Perform grooming as requested for each pet using knowledge of canine characteristics,
