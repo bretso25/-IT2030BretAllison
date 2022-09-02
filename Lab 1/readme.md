@@ -2,17 +2,10 @@
 <h3>Summary</h3>
 <p>Bret's Pet Grooming Services is responsible for providing exceptional grooming care services, techniques, and styles to a variety of dog breeds.</p>
 <h3>Services</h3>
-<ul>
-  <li><h4>Bath & Brush</h4>Bath, nail trim, ear cleaning, paw & pad trim, sanitary trim, anal gland cleaning & more.</li>
-<li>Perform grooming services including: clipping, combing, trimming, hand scissoring,
-medicated and general cleansing, parasite control baths, pawdicures, and ear cleansing.</li>
-<li>Perform grooming as requested for each pet using knowledge of canine characteristics,
-techniques and styles: Reads written or receives oral instructions to determine clipping
-pattern desired.</li>
-<li> Ability and stamina to groom several dogs per day and perform pet bathing, treatments,
-and other specialty grooming services in a facility dedicated to the health and well being
-of our best friends.</li>
-<li>Groom animals utilizing techniques which vary depending on type of hair, coat, breed
-  and owner instructions; bathe and dry animals.</li>
-  </ul>
-
+<h4>Bath & Brush</h4>Bath, nail trim, ear cleaning, paw & pad trim, sanitary trim, anal gland cleaning & more.
+<h4>Bath & Brush with FURminator®</h4>Bath, deShedding shampoo & solution, nail trim, ear cleaning, extra brushing, blow-out, sanitary trim & more.
+<h4>Bath & Full Haircut</h4>Bath, haircut, brushing, light dematting, nail trim, paw &amp; pad trim, ear cleaning, sanitary trim &amp; more.
+<h4>Bath & Full Haircut with FURminator®</h4>Bath, haircut, deShedding shampoo &amp; solution, nail trim, ear cleaning, extra brushing, sanitary trim &amp; more.
+<h4>Puppy Bath & Brush</h4>Bath, 15-minute brushing, nail trim & more for puppies through 5 months old.*
+<h4>Puppy Bath & Trim</h4>Bath, 15-minute brushing, light face trim, nail trim &amp; more for puppies through 5 months old.*
+<h4>Puppy Bath & Full Haircut</h4>Bath, haircut, 15-minute brushing, nail trim &amp; more for puppies through 5 months old.*
