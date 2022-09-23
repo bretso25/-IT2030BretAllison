@@ -1,4 +1,5 @@
 <h2>Week 3 Lab</h2>
-I've hopefully uploaded my lab 3 files correctly to github.  I was actually a lot further with my project but forgot to save it correctly and lost all my work.  <br>
-I know I am missing some of the validation and some of the computation to get tax amount and total.
+I've hopefully uploaded my lab 3 files correctly to GitHub.  I just zipped it up.  Is there a better way to upload the needed files?<br>
+Also, I just wanted to say I appreciated the call about the Lab 3 question and answers.  With your help, I was able to figure out everything I was missing.
+
 
