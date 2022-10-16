@@ -14,4 +14,5 @@ Attempting to run the app gives you build errors pop up.  In the Errors list I g
 <br>To fix the TipCalculator.cs, I add a semicolon here.  return tip; <br>
 - CS0161 'HomeController.Index()':not all code paths return a value, **File** HomeController.cs
 - CS0103 The name 'Viewbag' does not exist in the current context,   **File** HomeController.cs
+<br>To fix this you needed to change Viewbag to ViewBag.  Names are case sensitive. ViewBag.TwentyFive = 0;<br>
 - "widht" is not a known CSS property name. **File** site.css
