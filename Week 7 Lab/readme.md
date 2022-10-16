@@ -21,3 +21,4 @@ Attempting to run the app gives you build errors pop up.  In the Errors list I g
 <br>After getting the app to run, I get these errors on the internal server error page.
 - line 15 <lable>@ViewBag.Fifteem.ToString("c2")</label>
 - line 6  <div asp-validation-summary="All"></div>
+<br>Both of these errors refer to the Index.cshtml file</br>
