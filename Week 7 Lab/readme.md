@@ -25,3 +25,4 @@ Attempting to run the app gives you build errors pop up.  In the Errors list I g
 <br>The Index.cshtml file has a couple spelling errors:
 -       <label>@ViewBag.**Twety**.ToString("c2")</label>  
 -        <label>@ViewBag.**TwentyFeve**.ToString("c2")</label> 
+<br>The css error was easy enough to fix using Developer Tools on chrome.  I use this quite a bit with my current job.  We just needed to correct **widht** to **width**
