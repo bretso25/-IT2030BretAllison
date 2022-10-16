@@ -1,5 +1,5 @@
 <h1>Week 7  Lab.  Troubleshooting a solution</h1>
-<h2>Lab Instructions<h2>
+<h2>Lab Instructions</h2>
 For this lab you will debug the Tip Calculator app that is provided for you in the TipCalculatorWk7 folder. 
 - In your Readme.md file in your Week 7 lab folder, list and identify all errors that you find. <br>
 - Specify which file had the errors and what the error was and state what you did to fix the error.<br>
