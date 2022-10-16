@@ -8,7 +8,7 @@ Use the Developer Tools (as shown below) to find and correct the CSS issue that 
 Submit the link to your corrected TipCalculatorWk7 project files.<br>
 
 Attempting to run the app gives you build errors pop up.  In the Errors list I get these errors:
--CS1002 ;expected
--CS0161 'HomeController.Index()':not all code paths return a value
--CS0103 The name 'Viewbag' does not exist in the current context
+- CS1002 ;expected
+- CS0161 'HomeController.Index()':not all code paths return a value
+- CS0103 The name 'Viewbag' does not exist in the current context
 -       "widht" is not a known CSS property name.
