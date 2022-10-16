@@ -8,8 +8,8 @@ For this lab you will debug the Tip Calculator app that is provided for you in t
 - Set a breakpoint in the model class and step through its code to find the error that leads to the app calculating an incorrect tip amount.<br>
 - Use the Developer Tools (as shown below) to find and correct the CSS issue that prevents the label elements from displaying with the expected width.<br>
 Submit the link to your corrected TipCalculatorWk7 project files.<br>
-
-<h4>This was a nice little troubleshooting lab. I belive I have all the asks for this lab noted below</h4>
+<h2>Lab Notes</h2>
+<h3>This was a nice little troubleshooting lab. I belive I have all the asks for this lab noted below</h3>
 
 Attempting to run the app gives you build errors pop up.  In the Errors list I get these errors:
 
