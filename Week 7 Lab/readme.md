@@ -7,7 +7,7 @@ For this lab you will debug the Tip Calculator app that is provided for you in t
 - Use the Internal Server Error page and its stack trace to find and correct any unhandled exceptions that occur when you run the app.<br>
 - Set a breakpoint in the model class and step through its code to find the error that leads to the app calculating an incorrect tip amount.<br>
 - Use the Developer Tools (as shown below) to find and correct the CSS issue that prevents the label elements from displaying with the expected width.<br>
-Submit the link to your corrected TipCalculatorWk7 project files.<br>
+
 <h2>Lab Notes</h2>
 <h3>This was a nice little troubleshooting lab. I believe I have all the asks for this lab noted below.  I also submitted a few images of the troubleshooting process.</h3>
 
