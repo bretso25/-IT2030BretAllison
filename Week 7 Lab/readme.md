@@ -12,4 +12,4 @@ Attempting to run the app gives you build errors pop up.  In the Errors list I g
 - CS1002 ;expected
 - CS0161 'HomeController.Index()':not all code paths return a value
 - CS0103 The name 'Viewbag' does not exist in the current context
--       "widht" is not a known CSS property name.
+- "widht" is not a known CSS property name.
