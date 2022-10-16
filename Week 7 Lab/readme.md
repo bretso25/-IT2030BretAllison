@@ -8,6 +8,8 @@ For this lab you will debug the Tip Calculator app that is provided for you in t
 - Use the Developer Tools (as shown below) to find and correct the CSS issue that prevents the label elements from displaying with the expected width.<br>
 Submit the link to your corrected TipCalculatorWk7 project files.<br>
 
+<h4>This was a nice little troubleshooting lab. I belive I have all the asks for this lab noted below</h4>
+
 Attempting to run the app gives you build errors pop up.  In the Errors list I get these errors:
 
 - CS1002 ;expected , **File** TipCalculator.cs
@@ -22,7 +24,9 @@ Attempting to run the app gives you build errors pop up.  In the Errors list I g
 - line 15 <lable>@ViewBag.Fifteem.ToString("c2")</label>
 - line 6  <div asp-validation-summary="All"></div>
 <br>Both of these errors refer to the Index.cshtml file</br>
-<br>The Index.cshtml file has a couple spelling errors:
+<br>The Index.cshtml file has a couple other spelling errors:
 -       <label>@ViewBag.**Twety**.ToString("c2")</label>  
 -        <label>@ViewBag.**TwentyFeve**.ToString("c2")</label> 
+
+<br>I set a breakpoint at the var tip = MealCost.Value * percent; and saw that the calculation was dividing the percent instead of multiplying.  I changed the line var tip = MealCost.Value **/** percent; to var tip = MealCost.Value * percent;
 <br>The css error was easy enough to fix using Developer Tools on chrome.  I use this quite a bit with my current job.  We just needed to correct **widht** to **width**
