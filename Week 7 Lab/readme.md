@@ -11,6 +11,7 @@ Submit the link to your corrected TipCalculatorWk7 project files.<br>
 Attempting to run the app gives you build errors pop up.  In the Errors list I get these errors:
 
 - CS1002 ;expected , **File** TipCalculator.cs
+<br>To fix the TipCalculator.cs, I add a semicolon here.  return tip; <br>
 - CS0161 'HomeController.Index()':not all code paths return a value, **File** HomeController.cs
 - CS0103 The name 'Viewbag' does not exist in the current context,   **File** HomeController.cs
 - "widht" is not a known CSS property name. **File** site.css
