@@ -9,7 +9,7 @@ For this lab you will debug the Tip Calculator app that is provided for you in t
 Submit the link to your corrected TipCalculatorWk7 project files.<br>
 
 Attempting to run the app gives you build errors pop up.  In the Errors list I get these errors:
-|Error| |File|
+
 - CS1002 ;expected , **File** TipCalculator.cs
 - CS0161 'HomeController.Index()':not all code paths return a value, **File** HomeController.cs
 - CS0103 The name 'Viewbag' does not exist in the current context,   **File** HomeController.cs
