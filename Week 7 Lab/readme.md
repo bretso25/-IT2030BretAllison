@@ -19,5 +19,5 @@ Attempting to run the app gives you build errors pop up.  In the Errors list I g
 - "widht" is not a known CSS property name. **File** site.css
 
 <br>After getting the app to run, I get these errors on the internal server error page.
-- 15. <lable>@ViewBag.Fifteem.ToString("c2")</label>
-- 6.  <div asp-validation-summary="All"></div>
+- line 15 <lable>@ViewBag.Fifteem.ToString("c2")</label>
+- line 6  <div asp-validation-summary="All"></div>
