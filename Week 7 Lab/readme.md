@@ -22,3 +22,6 @@ Attempting to run the app gives you build errors pop up.  In the Errors list I g
 - line 15 <lable>@ViewBag.Fifteem.ToString("c2")</label>
 - line 6  <div asp-validation-summary="All"></div>
 <br>Both of these errors refer to the Index.cshtml file</br>
+<br>The Index.cshtml file has a couple spelling errors:
+-       <label>@ViewBag.**Twety**.ToString("c2")</label>  
+-        <label>@ViewBag.**TwentyFeve**.ToString("c2")</label> 
