@@ -13,6 +13,11 @@ Attempting to run the app gives you build errors pop up.  In the Errors list I g
 - CS1002 ;expected , **File** TipCalculator.cs
 <br>To fix the TipCalculator.cs, I add a semicolon here.  return tip; <br>
 - CS0161 'HomeController.Index()':not all code paths return a value, **File** HomeController.cs
+<br>To fix this line we need to add a return value.  I added return View(); and was finally able to get the solution to run.
 - CS0103 The name 'Viewbag' does not exist in the current context,   **File** HomeController.cs
 <br>To fix this you needed to change Viewbag to ViewBag.  Names are case sensitive. ViewBag.TwentyFive = 0;<br>
 - "widht" is not a known CSS property name. **File** site.css
+
+<br>After getting the app to run, I get these errors on the internal server error page.
+- 15. <lable>@ViewBag.Fifteem.ToString("c2")</label>
+- 6.  <div asp-validation-summary="All"></div>
