@@ -9,7 +9,7 @@ For this lab you will debug the Tip Calculator app that is provided for you in t
 - Use the Developer Tools (as shown below) to find and correct the CSS issue that prevents the label elements from displaying with the expected width.<br>
 Submit the link to your corrected TipCalculatorWk7 project files.<br>
 <h2>Lab Notes</h2>
-<h3>This was a nice little troubleshooting lab. I believe I have all the asks for this lab noted below.</h3>
+<h3>This was a nice little troubleshooting lab. I believe I have all the asks for this lab noted below.  I also submitted a few images of the troubleshooting process.</h3>
 
 Attempting to run the app gives you build errors pop up.  In the Errors list I get these errors:
 
