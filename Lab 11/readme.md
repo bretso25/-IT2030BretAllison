@@ -11,7 +11,7 @@ Use and display session state in application<br>
 Instructions:<br>
 1. Make a copy of your completed Week 9 Lab files and use this copy to start your Week 11 lab.<br>
 2. You will add another link to your Navbar. Create a Tools page as part of your Navbar. This is similar to how FAQ was added to your navbar in week 9 lab.<br>
-3. Move the code for the form in Views/Home/Index.cshtml to your Views/Home/Tools.cshtml. Only move the code for the form to the Tools page. Leave the description of your retail store in the Index.cshtml file. Add a heading to your Tools page. <br>For the form to work correctly on your Tools page, you must do the following
+3. Move the code for the form in Views/Home/Index.cshtml to your Views/Home/Tools.cshtml. Only move the code for the form to the Tools page. Leave the description of your retail store in the Index.cshtml file. Add a heading to your Tools page. <br>For the form to work correctly on your Tools page, you must do the following<br>
 a. Change the asp-action in the <form> element to Tools<br>
 b. Change the asp-action in the <a> link to Tools<br>
 4. Change the IActionResult Index code in HomeController.cs to IActionResult Tools i.e., the two methods with the [HttpGet] and [HttpPost] above them. All you are doing here is changing the name of the method from Index to Tools.<br>
