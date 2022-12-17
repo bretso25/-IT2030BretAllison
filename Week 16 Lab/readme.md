@@ -12,6 +12,11 @@ There are quite a few things I've learned while working with ASP.Net Core MVC:
 2.  Another thing I would like to imporve and I think this caued a problem throughout the labs was my version was using Framework 3.1, but should of been using framework 6.0.  I'll probably have to start from scratch to fix this.
 3.  Lastly, I would like to clean up the design of the site a bit.  Modify the css, add images, more pages, more text, to get it to finally look like a fully functional webiste.  For the lab today I'm going to make a few css changes, but ultimatly I would like it to get the appearance of a fully functional webiste.
 <br>
+    --bs-primary: #083c89;
+    --bs-primary-rgb: 8, 60, 137;
+3 style updates that I made to the site:
+1.  First, Let's start with something easy.  I wanted to change the color of the main banner that goes across the site.  It was originally a light blue and I changed it to a darker blue.  The spots I changed this in was in the bootstrap.css file.  I changed these two lines:
+
 *List three things you would like to improve in your application. Be specific and include a brief description with details.<br>
 *Make a copy of your Week 14 lab files and using the copy, make 3 style updates to your application. Use Bootstrap for your styling updates. Specify the filename(s) that has the updates and specify the style updates as well in your Readme.md file.<br>
 *Upload your completed files to your Week 16 lab folder in GitHub and submit your link in Blackboard.
