@@ -1,4 +1,4 @@
-<h1>Week 16 Lab>
+<h1>Week 16 Lab</h1>
 <h3>Instructions:</h3>
 *In your Readme.md file in your Week 16 folder in GitHub, list three things you learned in ASP.NET Core MVC web programming course. Be specific and include a brief description with details.<br><br>
 
