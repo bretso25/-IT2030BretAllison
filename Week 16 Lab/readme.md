@@ -9,7 +9,9 @@ There are quite a few things I've learned while working with ASP.Net Core MVC:
 
 3 Things I would like to improve in my application would be:
 1.  I would like to clean up some of the backend functionality for it.  For example, the debugger or troubleshooter start program link says Lab3.  I've tried changing this a few times, but it always messes things up.  Along with that, in the right hand bar it says Lab9.  I've tried changing this a few times too, but It also seems to mess things up.  Then alson in the right hand ba it says solution 'Lab5' (1 of 1 project).  I would like to get these to match the current lab or solution that I'm working on.  I'm sure these are easy changes, I think that changing them requies you to update a few other spots.  I'll work on learning this.
-
+2.  Another thing I would like to imporve and I think this caued a problem throughout the labs was my version was using Framework 3.1, but should of been using framework 6.0.  I'll probably have to start from scratch to fix this.
+3.  Lastly, I would like to clean up the design of the site a bit.  Modify the css, add images, more pages, more text, to get it to finally look like a fully functional webiste.  For the lab today I'm going to make a few css changes, but ultimatly I would like it to get the appearance of a fully functional webiste.
+<br>
 *List three things you would like to improve in your application. Be specific and include a brief description with details.<br>
 *Make a copy of your Week 14 lab files and using the copy, make 3 style updates to your application. Use Bootstrap for your styling updates. Specify the filename(s) that has the updates and specify the style updates as well in your Readme.md file.<br>
 *Upload your completed files to your Week 16 lab folder in GitHub and submit your link in Blackboard.
