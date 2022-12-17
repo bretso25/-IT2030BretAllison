@@ -1,9 +1,9 @@
 # Week 16 Lab
 ### Instructions:
-*In your Readme.md file in your Week 16 folder in GitHub, list three things you learned in ASP.NET Core MVC web programming course. Be specific and include a brief description with details.<br>
-*List three things you would like to improve in your application. Be specific and include a brief description with details.<br>
-*Make a copy of your Week 14 lab files and using the copy, make 3 style updates to your application. Use Bootstrap for your styling updates. Specify the filename(s) that has the updates and specify the style updates as well in your Readme.md file.<br>
-*Upload your completed files to your Week 16 lab folder in GitHub and submit your link in Blackboard.<br><br>
+* In your Readme.md file in your Week 16 folder in GitHub, list three things you learned in ASP.NET Core MVC web programming course. Be specific and include a brief description with details.<br>
+* List three things you would like to improve in your application. Be specific and include a brief description with details.<br>
+* Make a copy of your Week 14 lab files and using the copy, make 3 style updates to your application. Use Bootstrap for your styling updates. Specify the filename(s) that has the updates and specify the style updates as well in your Readme.md file.<br>
+* Upload your completed files to your Week 16 lab folder in GitHub and submit your link in Blackboard.<br><br>
 
 #### There are quite a few things I've learned while working with ASP.Net Core MVC:
 1. One thing I'm pretty good at is greating new pages on the site or views.  These are bascially the pages that everyone will see on the site. To create a new page you can either copy an existing one by using copy, then paste, or you can right click on the folder (Home) > Add > New Items > and choose an option with .cshtml
