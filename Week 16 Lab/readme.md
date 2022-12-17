@@ -9,7 +9,7 @@ State what you have learned in this course<br>
 Apply what you have learned<br>
 Make styling updates<br>
 <h3>Instructions:</h3>
-+In your Readme.md file in your Week 16 folder in GitHub, list three things you learned in ASP.NET Core MVC web programming course. Be specific and include a brief description with details.<br>
-+List three things you would like to improve in your application. Be specific and include a brief description with details.<br>
-+Make a copy of your Week 14 lab files and using the copy, make 3 style updates to your application. Use Bootstrap for your styling updates. Specify the filename(s) that has the updates and specify the style updates as well in your Readme.md file.<br>
-+Upload your completed files to your Week 16 lab folder in GitHub and submit your link in Blackboard.
+*In your Readme.md file in your Week 16 folder in GitHub, list three things you learned in ASP.NET Core MVC web programming course. Be specific and include a brief description with details.<br>
+*List three things you would like to improve in your application. Be specific and include a brief description with details.<br>
+*Make a copy of your Week 14 lab files and using the copy, make 3 style updates to your application. Use Bootstrap for your styling updates. Specify the filename(s) that has the updates and specify the style updates as well in your Readme.md file.<br>
+*Upload your completed files to your Week 16 lab folder in GitHub and submit your link in Blackboard.
